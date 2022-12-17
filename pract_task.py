@@ -1,9 +1,8 @@
-from math import *
-import itertools
+from math import sqrt
 
 
-message = 'Добро пожаловать в самую лучшую программу для вычисления ' \
-          'квадратного корня из заданного числа'
+message = ('Добро пожаловать в самую лучшую программу для вычисления '
+           'квадратного корня из заданного числа')
 print (message)
 
 def  CalculateSquareRoot (Number ):
